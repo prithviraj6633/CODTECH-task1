@@ -1,10 +1,10 @@
-Name: Prithviraj chavan
-Company: CODTECH IT SOLUTIONS
-ID:
-Domain: Machine learning
-Duration:July To August 2024
+**Name**: Prithviraj chavan
+**Company**: CODTECH IT SOLUTIONS
+**ID**:CT4ML4972
+**Domain**: Machine learning
+**Duration**:July To August 2024
 
-OVERVIEW OF THE PROJECT:
+**OVERVIEW OF THE PROJECT**:
 PROJECT:LINEAR REGRESSION ON HOUSING PRICES
 During the internship, one would start by loading and exploring the dataset to understand its structure and relationships between variables. Exploratory data analysis (EDA) techniques such as plotting histograms, scatter plots, and correlation matrices help in gaining insights into the data.
 
