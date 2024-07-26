@@ -15,3 +15,5 @@
 ## Visualization plays a crucial role in interpreting the results of the model. Techniques such as plotting actual vs. predicted prices or residual plots help in understanding the model's strengths and weaknesses.
 
 ## Lastly, applying the trained model to make predictions on new data instances allows interns to demonstrate the practical application of their work. This project not only enhances their technical skills in machine learning and data analysis but also provides valuable insights into the factors influencing housing prices, which are essential in real-world applications such as real estate market analysis and investment decision-making
+
+## OUTPUT:
