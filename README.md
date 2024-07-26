@@ -12,6 +12,6 @@
 
 ## The core of the project involves implementing a linear regression model using `LinearRegression` from `scikit-learn`. The model is trained on the training dataset, and its performance is evaluated using metrics such as mean squared error (MSE) and \( R^2 \) score on the test dataset. These metrics provide quantitative measures of how well the model predicts housing prices based on the chosen features.
 
-Visualization plays a crucial role in interpreting the results of the model. Techniques such as plotting actual vs. predicted prices or residual plots help in understanding the model's strengths and weaknesses.
+## Visualization plays a crucial role in interpreting the results of the model. Techniques such as plotting actual vs. predicted prices or residual plots help in understanding the model's strengths and weaknesses.
 
-Lastly, applying the trained model to make predictions on new data instances allows interns to demonstrate the practical application of their work. This project not only enhances their technical skills in machine learning and data analysis but also provides valuable insights into the factors influencing housing prices, which are essential in real-world applications such as real estate market analysis and investment decision-making
+## Lastly, applying the trained model to make predictions on new data instances allows interns to demonstrate the practical application of their work. This project not only enhances their technical skills in machine learning and data analysis but also provides valuable insights into the factors influencing housing prices, which are essential in real-world applications such as real estate market analysis and investment decision-making
