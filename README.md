@@ -1,4 +1,4 @@
-**Name**: Prithviraj chavan
+## **Name**: Prithviraj chavan
 ## **Company**: CODTECH IT SOLUTIONS
 ## **ID**:CT4ML4972
 ## **Domain**: Machine learning
