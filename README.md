@@ -1,8 +1,8 @@
 **Name**: Prithviraj chavan
-**Company**: CODTECH IT SOLUTIONS
-**ID**:CT4ML4972
-**Domain**: Machine learning
-**Duration**:July To August 2024
+## **Company**: CODTECH IT SOLUTIONS
+## **ID**:CT4ML4972
+## **Domain**: Machine learning
+## **Duration**:July To August 2024
 
 ##**OVERVIEW OF THE PROJECT**:
 ## PROJECT:LINEAR REGRESSION ON HOUSING PRICES
